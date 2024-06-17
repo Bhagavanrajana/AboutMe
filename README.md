@@ -11,7 +11,7 @@ Location: Hyderabad
 
 
 👨‍💻 Professional Experience
-Salesforce Development: Customizing and developing Salesforce solutions, including Apex classes, triggers, Visualforce pages, and Lightning components.
+Salesforce Development: Customizing and developing Salesforce solutions, including Apex classes, triggers, Visualforce pages, and Lightning web components(LWC).
 
 Web Design: Designing and developing user-friendly web interfaces using HTML, CSS, JavaScript, and various frameworks.
 
