@@ -18,7 +18,7 @@ Web Design: Designing and developing user-friendly web interfaces using HTML, CS
 Software Configuration: Expertise in software configuration and integration to meet business requirements.
 
 🌱 Learning & Growth
-Continuous Learning: Always keen to learn new technologies and improve my skills.
+Continuous Learning: I am always keen to learn new technologies and improve my skills.
 
 Certifications: Salesforce Certified Administrator and Platform Developer-I
 
