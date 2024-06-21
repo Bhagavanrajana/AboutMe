@@ -20,10 +20,10 @@ Software Configuration: Expertise in software configuration and integration to m
 🌱 Learning & Growth
 Continuous Learning: I am always keen to learn new technologies and improve my skills.
 
-Certifications: Salesforce Certified Administrator and Platform Developer-I
+Certifications: Salesforce Certified Associate, Administrator and Platform Developer-I
 
 💼 Skills & Technologies
-Salesforce: Apex, Visualforce, Lightning Components, Salesforce Administration
+Salesforce: Python,  Apex, Visualforce, Lightning web Components, Salesforce Administration
 
 Web Development: HTML, CSS, JavaScript, React, Bootstrap
 
