@@ -5,7 +5,7 @@ Welcome to My GitHub profile! I am a passionate Salesforce Developer and Front-e
 🔭 Currently:-
 Job Title: Salesforce Developer,
 Company:- Tata Consultancy Services (TCS)
-Location:- Hyderabad..
+Location:- Hyderabad.
 
 
 👨‍💻 Professional Experience:-
